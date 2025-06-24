@@ -133,7 +133,7 @@ In Wokwi, the components are already wired for you in the diagram.
 
 ---
 
-## How It Works & Testing
+## How It Works
 
 After updating the code in Wokwi, click the "Play" button to start the simulation. 
 
